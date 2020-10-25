@@ -1,7 +1,7 @@
 ### Hi there 👋
 Too lazy to actually put info here so deal with GitHub's default!
 - 💬 Ask me about my CS and IT background...
-- 📫 How to reach me: [mprado.ml/](mprado.ml/socials)
+- 📫 How to reach me: [mprado.ml/](http://www.mprado.ml/socials)
 - 🔭 I’m currently working on developing a training portal for cybersecurity newbies.
 - 🌱 I’m currently learning Java, HTML & CSS.
 - 👯 I’m looking to collaborate on StonksCTF, a introductory cybersecurity competition.
