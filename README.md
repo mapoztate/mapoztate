@@ -7,5 +7,5 @@ I'm Matt, head Team Captain of [3 Ways to Heck](https://github.com/3-Ways-to-Hec
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapoztate&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=mapoztate)
+![](https://komarev.com/ghpvc/?username=mapoztate) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmapoztate%2Fapcsa2020&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
