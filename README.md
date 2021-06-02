@@ -5,5 +5,7 @@ I'm Matt, head Team Captain of [3 Ways to Heck](https://github.com/3-Ways-to-Hec
 
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapoztate&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapoztate&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=mapoztate)
